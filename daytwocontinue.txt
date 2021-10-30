@@ -1,0 +1,22 @@
+BRANCH COMMANDS
+20) To create a branch
+
+git branch <branchName>
+
+21) To list the branches available
+
+git branch
+
+22) To change from 1 branch to another branch
+
+git checkout <branchName>
+
+23) To merge branch changes to the master branch
+
+git merge <branchName>
+
+24) To delete the branch from local repo
+
+git branch -d branchName
+
+25) To push the branch & its contents to github
