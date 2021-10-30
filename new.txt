@@ -1,0 +1,5 @@
+//COMMAND TO DELETE BRANCH FROM GITHUB
+
+26) To delete the branch from remote repo
+
+git push origin --delete branchName
